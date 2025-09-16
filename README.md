@@ -15,7 +15,7 @@
 
 # Yo, I’m Hadji ✌🏾  
 
-This is just my GitHub. Nothing crazy — a mix of projects I actually finished, ones I’m still convincing myself I’ll finish, and some experiments that probably belong in the trash but are still here anyway.  
+This is just my GitHub. Nothing crazy  a mix of projects I actually finished, ones I’m still convincing myself I’ll finish, and some experiments that probably belong in the trash but are still here anyway.  
 
 Not a polished showcase. More like: “here’s what happens when curiosity, a bit of motivation, and chaos collide.”  
 
@@ -38,6 +38,6 @@ Chilling        [████████████-]  92%
 
 ---
 
-So yeah — scroll around, fork something, laugh at the chaos, or just leave knowing you’ve witnessed peak “work in progress” energy.  
+So yeah  scroll around, fork something, laugh at the chaos, or just leave knowing you’ve witnessed peak “work in progress” energy.  
 
 **PS:** If you clone anything and it breaks, congrats… you’ve unlocked the full Hadji experience.  
